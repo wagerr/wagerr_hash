@@ -26,4 +26,4 @@ Credits
 * Module maintained by @eduffield https://github.com/darkcoinproject/xcoin-hash
 * Module maintained by @flare https://github.com/nightlydarkcoin/xcoin-hash
 * Module maintained by @vertoe https://github.com/vertoe/darkcoin_hash
-* Module updated to wagerr_hash by @wagerrck https://github.com/wagerr/wagerr_hash
+* Module updated to wagerr_hash by @wagerr-builder https://github.com/wagerr/wagerr_hash
